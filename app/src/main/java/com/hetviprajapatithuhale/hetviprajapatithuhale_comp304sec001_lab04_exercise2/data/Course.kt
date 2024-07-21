@@ -2,5 +2,6 @@ package com.hetviprajapatithuhale.hetviprajapatithuhale_comp304sec001_lab04_exer
 
 data class Course(
     val name: String,
+    val code: String,
     val description: String
 )
